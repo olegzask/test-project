@@ -36,6 +36,7 @@ const App = () => {
     <div className="App">
       <h1 className="app-title">{title}</h1>
       <h1>NEW FEAT GIT</h1>
+      <h2>PULL</h2>
       <SearchBox
         search={onSearchChange}
         placeHolder="Find a Monster!"
